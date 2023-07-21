@@ -1,0 +1,27 @@
+https://platzi.com/clases/1759-fundamentos-node/25184-node-origenes-y-filosofia/
+
+https://platzi.com/ruta/web-node/?school=_escuela_web_
+
+https://platzi.com/buscar/?search=carlos%20hernandez&objecttype=course
+
+
+NodeJs -> Entorno de ejecucion de javascript fuera del navegador
+
+-> Servidores
+-> Herramientas, automatizacion etc
+
+Corre en el motor V8 -> CREADO POR GOOGLE ESCRITO EN C++ , ES MUY POTENTE
+
+MODULOS -> FUNCIONA EN BASE A MODULOS -> PIEZAS DE CODIGO CHIQUITAS -> puedes crear propios MODULOS
+
+ORIENTADO A EVENTOS! -> PROGRAMAR DE FORMA REACTIVA :)
+
+
+Event Loop:
+
+Asincronia por diseño -> eventloop -> es un bucle que gestiona de forma asincrona todos los eventos de tu aplicacion.
+
+Event Queue -> cola de eventos -> que luego procesa el event loop 
+
+Threadpool -> cosas lentas van ahi y no bloquean el event loop -> para cada peticion levanta un nuevo hilo en el procesador cuando termina lo manda al event loop
+
